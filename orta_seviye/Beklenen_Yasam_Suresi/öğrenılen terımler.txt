@@ -1,0 +1,13 @@
+Bu uygulamada kısaca neler yaptım?
+
+Composition kavramını öğrendim ve temel widgetleri kullanarak kendi widgetlerimi oluşturdum. 
+
+Farklı tipte widgetları flutter dökümanlarından inceleyip öğrendim ve uygulamamda bunları kullandım.
+
+Code refectoring'i esas alarak ve syntactic sugarlardan yararlanarak kodumu temiz, anlaşılabilir ve tekrar tekrar kullanılabilir kıldım.
+
+Navigation, route ve Navigation metodlarını öğrendim ve bunları sayfalarımın geçişlerinde ve veri transferinde kullandım.
+
+Kendi classlarımı ve bu classlara ait nesneleri ve fonksiyonlarımı oluşturup bunları gerektiği yerde çağırıp kullandım.
+
+Gerek AndroidStudio gerek kodumla ilgili karşıma çıkan hata ve uyarıları çözdüm.
