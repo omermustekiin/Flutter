@@ -6,7 +6,7 @@
 
 *Firebase Cloud Firestore & MVMM Uygulama Mimarisi:* Cloud Firestore ve MVMM mimarisi hakkında işleyip uyguladığım tüm konu başlıkları ve öğrenim kazanımlarım.
 
-# Projeler
+# Projects
 
 -------------Temel Başlangıç Seviyesi Uygulamalar-------------
 
