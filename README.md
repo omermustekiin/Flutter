@@ -2,9 +2,9 @@
 
 *Dart & Flutter Topics:* Flutter ve Dart öğrenim sürecimde işleyip uyguladığım tüm konu başlıkları ve öğrenim kazanımlarım.
 
-*Firebase Authentication Topics:* Firebase öğrenim sürecimde işleyip uyguladığım tüm konu başlıkları ve öğrenim kazanımlarım.
+*Firebase Auth & Cloud Firestore & Storage Topics* Firebase ve Cloud Firestore öğrenim sürecimde işleyip uyguladığım konu başlıkları ve öğrenim kazanımlarım.
 
-*Firebase Cloud Firestore & MVMM Uygulama Mimarisi:* Cloud Firestore ve MVMM mimarisi hakkında işleyip uyguladığım tüm konu başlıkları ve öğrenim kazanımlarım.
+*MVMM Uygulama Mimarisi:* MVMM mimarisi hakkında işleyip uyguladığım tüm konu başlıkları ve öğrenim kazanımlarım.
 
 # Projects
 
