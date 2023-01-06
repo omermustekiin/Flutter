@@ -1,0 +1,41 @@
+Firebase Hakkında
+Authentication
+Authentication: Widget Mimarisi
+Firebase Kurulum
+Firebase Projesi Oluşturmak
+Firebase Android & İOS Ayarları
+Firebase Paket Kurulumları
+Firebase Authentication Paketinin eklenmesi
+Firebase Başlatılması / Initialization - main () async yöntemi
+Firebase Başlatılması / Initialization - FutureBuilder() yöntemi 
+Firebase kurulum testi
+Sayfaların Oluşturulması
+Firebase Authentication
+Anonim Authentication
+Auth Servisi Eklenmesi
+Provider ile Servis Kullanımı
+OnBoard/Karşılama Widget Eklenmesi
+HomePage eklenmesi
+authStateChanges metodu ile State Kontrolü
+Stream Nedir?
+StreamSubscription metotları
+setState ile Giriş yönlendirmesi
+StreamBuilder Widget Kullanımı
+Buton yükleme durumu
+Buton Refactoring
+Email Giriş Sayfası
+enum & Formların oluşturulması
+Form decoration
+Form validation
+email_validator paketi
+Yeni Kullanıcı Oluşturma, createUserWithEmailAndPassword
+Email Verification
+Firebase Mail Template
+alertDialog eklenmesi
+Kullanıcı Girişi, signInWithEmailAndPassword
+Şifre Sıfırlama, Reset Password
+Google Sign-In Ayarları
+signInWithGoogle metodu
+Google SignOut metodu
+Hata İşleme/Error Handling
+Try, catch, on, finally, rethrow
