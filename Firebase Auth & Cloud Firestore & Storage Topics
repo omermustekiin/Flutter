@@ -37,5 +37,9 @@ Kullanıcı Girişi, signInWithEmailAndPassword
 Google Sign-In Ayarları
 signInWithGoogle metodu
 Google SignOut metodu
-Hata İşleme/Error Handling
-Try, catch, on, finally, rethrow
+Cloud Firestore Veri Yapısı
+Firestore Kurulum
+Firestore Verilere erişim 
+Storage dosya erişimi
+Storage dosya yükleme
+Storage'den dosya silmek
