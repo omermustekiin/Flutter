@@ -4,7 +4,11 @@
 
 *Firebase Auth & Cloud Firestore & Storage Topics* Firebase ve Cloud Firestore öğrenim sürecimde işleyip uyguladığım konu başlıkları ve öğrenim kazanımlarım.
 
+*Flutter Tips*: Flutter öğrenim sürecimde not aldığım tüyolar
+
 *MVMM Uygulama Mimarisi:* MVMM mimarisi hakkında işleyip uyguladığım tüm konu başlıkları ve öğrenim kazanımlarım.
+
+
 
 # Projects
 
