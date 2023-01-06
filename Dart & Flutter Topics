@@ -1,0 +1,88 @@
+[Dart] Fonksiyonlar & Callback function
+ [Dart] Değişkenler
+ [Dart] Veri Tipleri
+ [Dart] List veri yapısı
+ [Dart] Listeler
+ [Dart] If-Else / Koşullu ifadeler
+ [Dart] Ternary Operator
+ [Dart] Class & Object / Sınıf & Nesne kavramları
+ [Dart] Class Constructors / Yapıcılar
+ [Dart] Liste Metotları:
+ [Dart] Temel metotlar
+ [Dart] Higher Order Metotlar'a giriş ve "Any" Metodu
+ [Dart] Every
+ [Dart] Expand
+ [Dart] firstWhere
+ [Dart] forEach
+ [Dart] indexWhere, lastIndexWhere, lastWhere 
+ [Dart] map
+ [Dart] reduce & fold
+ [Dart] sort
+ [Dart] removeWhere, retainWhere, singleWhere, skipWhile
+ [Dart] takeWhile & where
+
+ Flutter Widget Mimarisi
+ Scaffold Kullanımı
+ Foto ekleme ve Pubspec.yaml Dosya Ayarları
+ Uygulama İkonu Eklenmesi
+ Container Widget Kullanımı
+ Column & Row Widget Kullanımı
+ CircleAvatar Widget Kullanımı
+ Uygulamaya Özel Font Eklemek
+ Google_fonts Paketi
+ Icon Widget Kullanımı
+ Card ve ListTile Widget Kullanımı
+ FlatButton Widget Kullanımı
+ Stateful vs. Stateless Widget
+ Butona Fonksiyon Atanması
+ Wrap Widget Kullanımı
+ Class Kullanımı
+ Soyutlama/Abstraction
+ Paketleme/Encapsulation
+ Miras Alma / Inheritance
+ Çok Biçimlilik / Polymorphism
+ AlertDialog ile Uyarı mesajı
+ Tema Kullanımı
+ Widget Oluşturma ve Özelleştirme    
+ GestureDetector Widget Kullanımı
+ Slider Widget Kullanımı
+ OutlineButton & RotatedBox Widget Kullanımı
+ Method Extraction
+ Navigation: Sayfalar Arası Geçiş, Route & Navigator Methods
+ Navigation: Basit Veri Transferi
+ Navigation: Map & Named Routes
+ Navigation: ModalRoute.of()
+ Navigation: onGenerateRoute
+ API nedir?
+ API servis: OpenWeatherMap.org
+ http paketi
+ Future nedir?
+ Async & Await kullanımı
+ Json
+ Json ayrıştırma/parse
+ Widget lifecycle metotları:  initState, setState ve dispose
+ Verilerin dinamik yenilenmesi
+ CircularProgressIndicator Widget'ı
+ Sayfalar arası basit veri döndürme
+ TextField input kontrolü / validation
+ Arkaplan otomatik güncelleme
+ Android Emulator GPS ayarları hakkında
+ Cihaz GPS verisi kullanma: Geolocator paketi
+ Try & Catch videosu hakkında
+ Try & Catch Anahtar Kelimeleri
+ ListView Widget Kullanımı
+ DateTime & Duration Sınıfları
+ State Management Nedir? Neden Gerekir?
+ Callback Kullanımı ile State Yönetimi
+ Provider Paketi
+ Provider: Consumer Widget Kullanımı
+ Temalandırma ve Ana Sayfa
+ Provider Kullanımı
+ Setting Page ve MultiProvider kullanımı
+ Shared Preferences
+ Shared Preferences + Provider
+ Shared Preferences: main( ) async
+ SwitchTileList Hata Düzeltme
+ Nesneleri String'e Çevirme
+ Consumer Widget üzerine
+ Splash Screen
