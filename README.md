@@ -65,6 +65,9 @@ ileri seviye widget ve paketleri içeren uygulamalardır.
 #### *Get It Done*
 
 #### *Task Maven*
+Dynamic Theme & Local Push Notification & Get Storage & GetX Listview & Using Sqlite & Sqflite CRUD With Local Scheduled Notifications
+
+Sqlite & Sqflite CRUD kullanarak bir Flutter uygulaması oluşturdum. Sqflite ile yerel bildirimlere sahip "yapılacaklar uygulaması" oluşturdum. Yerel bildirimler arasında anında bildirim, programlanmış bildirim, zonedSchedule yer alıyor.
 
 #### *Trip and Travel*
 
