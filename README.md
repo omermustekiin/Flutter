@@ -64,18 +64,23 @@ ileri seviye widget ve paketleri içeren uygulamalardır.
 
 #### *Get It Done*
 
+
+
 #### *Task Maven*
 Dynamic Theme & Local Push Notification & Get Storage & GetX Listview & Using Sqlite & Sqflite CRUD With Local Scheduled Notifications
 
-Sqlite & Sqflite CRUD kullanarak bir Flutter uygulaması oluşturdum. Sqflite ile yerel bildirimlere sahip "yapılacaklar uygulaması" oluşturdum. Yerel bildirimler arasında anında bildirim, programlanmış bildirim, zonedSchedule yer alıyor.
+Task Maven, kullanıcıların görev eklediği ve bu görev kartları üzerinde çeşitli değişiklikler yapabildiği, yerel bildirimlerin ve tema değişikliklerinin bulunduğu dinamik ve kullanıcı dostu bir to-do list uygulamasıdır.
 
 #### *Trip and Travel*
+
+State Management'ı Cubit ile sağlanmış ve cerilerin http isteği ile bir API'den çekilip sunulduğu bir seyahat uygulamasıdır. 
 
 #### *Authentication App*
 
 Tamamlandı. İçerik bekleniyor...
 
 #### *Library App*
+
 
 #### *Instagram Clone*
 
