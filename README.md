@@ -9,11 +9,19 @@ Bu uygulamaların çoğu code refactoring içermez ve herhangi bir mimariye sahi
 
 #### *Flutter Kahvecisi* 
 
+Bir kahve firmasının giriş sayfası tasarımı.
+
 #### *Bugün Ne Yesem*
+
+Kullanıcının karşısına her ekrana tıklandığında random olarak bir yemek menüsü sunan basit bir uygulama.
 
 #### *Drum Machine*
 
+Her kutucuğa tıklandığında o kutucuğa ait audio uzantısının çalıştığı ve ses çıkardığı bir basit muzik uygulaması.
+
 #### *Fal Getir*
+
+Liste içerisinde tutulan fal bilgilerini ilgili tuşlara göre kullanıcının karşısına getiren fal uygulaması.
 
 
 ----------Orta Seviye Uygulamalar---------
@@ -24,6 +32,8 @@ olmamakla birlikte code refactoring içeren uygulamalardır.
 
 
 #### *Beklenen Yaşam Süresi*
+
+Kendi oluşturduklarım ve diğer çeşitli widget tipleri ile kullanıcıdan alınan verileri sonuç sayfasında kullanıcıya beklenilen yaşam süresi olarak gösteren ve sayfalar arası veri aktarımı hakkında bilgiler içeren bir uygulama.
 
 #### *Movie App*
 
