@@ -39,11 +39,10 @@ olmamakla birlikte code refactoring içeren uygulamalardır.
 ----------İleri Seviye Uygulamalar---------
 
 Buradaki uygulamalar kullanıma hazır, code refectoring içeren ve bazılarında gerek duyulmasa veya kullanılmasa bile çoğunda
-MVMM mimarisi barındıran ve stateManagement içeren, try catch yapısı ile hata yönetimi sağlayan,
-API'ler ile veya FireBase, CloudStorage gibi veri tabanları ile uyumlu çalışan servisleri olan,
-ileri seviye widget ve Provider, GetX, cloud_store gibi paketleri kullanan uygulamalardır.
+uygulama mimarisi içeren (Genellikle MVMM) ve Provider, Getx, Bloc, Riverpod gibi çeşitli kütüphaneler ile state management sağlanmış, try catch yapısı ile hata yönetimi sağlayan, API'ler ile veya FireBase, CloudStorage gibi veri tabanları ile uyumlu çalışan servisleri olan,
+ileri seviye widget ve paketleri içeren uygulamalardır.
 
-#### *Get İt Done*
+#### *Get It Done*
 
 #### *Task Maven*
 
