@@ -9,11 +9,11 @@ Bu uygulamaların çoğu code refactoring içermez ve herhangi bir mimariye sahi
 
 #### Flutter Kahvecisi 
 
-Bugün Ne Yesem:
+#### Bugün Ne Yesem
 
-Drum Machine: 
+#### Drum Machine
 
-Fal Getir: 
+#### Fal Getir
 
 
 ----------Orta Seviye Uygulamalar---------
@@ -23,17 +23,17 @@ seviye widgetları ve paketleri kullandığım uygulamalardır. Bu uygulamalar O
 olmamakla birlikte code refactoring içeren uygulamalardır. 
 
 
-Beklenen Yaşam Süresi: 
+#### Beklenen Yaşam Süresi
 
-Movie App:
+#### Movie App
 
-Calculator App:
+#### Calculator App
 
-Bilgi Testi: 
+#### Bilgi Testi
 
-Random Alarm: YOK
+#### Random Alarm
 
-Basic Chat Message App: YOK
+#### Chat App UI
 
 
 ----------İleri Seviye Uygulamalar---------
@@ -43,33 +43,33 @@ MVMM mimarisi barındıran ve stateManagement içeren, try catch yapısı ile ha
 API'ler ile veya FireBase, CloudStorage gibi veri tabanları ile uyumlu çalışan servisleri olan,
 ileri seviye widget ve Provider, GetX, cloud_store gibi paketleri kullanan uygulamalardır.
 
-Get İt Done: 
+#### Get İt Done
 
-Task Maven: Tamamlandı, içerik gite bekleniyor!
+#### Task Maven
 
-Trip and Travel: Tamamlandı, içerik gite bekleniyor!
+#### Trip and Travel
 
-Firebase Auth Demo App: Tamamlandı, içerik gite bekleniyor!
+#### Authentication App
 
-Library App: 
+#### Library App
 
-*Instagram Clone:* 
+#### Instagram Clone
 
-*Whatsapp Clone:* 
+#### *Whatsapp Clone* 
 
-*Class Tutorial:* YOK
+#### *Class Tutorial* 
 
-*Educational App:* YOK
+#### *Educational App* 
 
-*Amazon Clone:* YOK
+#### *Amazon Clone* 
 
-Hava Durumu: 
+#### Hava Durumu
 
-Weight Tracker App: 
+#### Weight Tracker App
 
-Chat app:
+#### Chat app
 
-Quiz App: 
+#### Quiz App
 
 
 
