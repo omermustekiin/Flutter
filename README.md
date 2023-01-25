@@ -7,13 +7,13 @@ temel widgetları, paketleri ve Flutter mimarisini öğrenme sürecime katkı sa
 Bu uygulamaların çoğu code refactoring içermez ve herhangi bir mimariye sahip değillerdir.
 
 
-#### Flutter Kahvecisi 
+#### *Flutter Kahvecisi* 
 
-#### Bugün Ne Yesem
+#### *Bugün Ne Yesem*
 
-#### Drum Machine
+#### *Drum Machine*
 
-#### Fal Getir
+#### *Fal Getir*
 
 
 ----------Orta Seviye Uygulamalar---------
@@ -23,17 +23,17 @@ seviye widgetları ve paketleri kullandığım uygulamalardır. Bu uygulamalar O
 olmamakla birlikte code refactoring içeren uygulamalardır. 
 
 
-#### Beklenen Yaşam Süresi
+#### *Beklenen Yaşam Süresi*
 
-#### Movie App
+#### *Movie App*
 
-#### Calculator App
+#### *Calculator App*
 
-#### Bilgi Testi
+#### *Bilgi Testi*
 
-#### Random Alarm
+#### *Random Alarm*
 
-#### Chat App UI
+#### *Chat App UI*
 
 
 ----------İleri Seviye Uygulamalar---------
@@ -43,17 +43,17 @@ MVMM mimarisi barındıran ve stateManagement içeren, try catch yapısı ile ha
 API'ler ile veya FireBase, CloudStorage gibi veri tabanları ile uyumlu çalışan servisleri olan,
 ileri seviye widget ve Provider, GetX, cloud_store gibi paketleri kullanan uygulamalardır.
 
-#### Get İt Done
+#### *Get İt Done*
 
-#### Task Maven
+#### *Task Maven*
 
-#### Trip and Travel
+#### *Trip and Travel*
 
-#### Authentication App
+#### *Authentication App*
 
-#### Library App
+#### *Library App*
 
-#### Instagram Clone
+#### *Instagram Clone*
 
 #### *Whatsapp Clone* 
 
@@ -63,13 +63,13 @@ ileri seviye widget ve Provider, GetX, cloud_store gibi paketleri kullanan uygul
 
 #### *Amazon Clone* 
 
-#### Hava Durumu
+#### *Hava Durumu*
 
-#### Weight Tracker App
+#### *Weight Tracker App*
 
-#### Chat app
+#### *Chat app*
 
-#### Quiz App
+#### *Quiz App*
 
 
 
