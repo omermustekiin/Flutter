@@ -41,11 +41,11 @@ Figmada tasarlanan bir film uygulamasının ekran tasarımlarını içeren uygul
 
 #### *Calculator App*
 
-Kullanışlı ve modern arayüzü ile çeşitli hesaplamalar yapabileğimiz bir hesap makinesi uygulaması.
+Kullanışlı ve modern arayüzü ile çeşitli hesaplamalar yapılablen bir hesap makinesi uygulaması.
 
 #### *Bilgi Testi*
 
-OOP temelleri doğrultusunda ve code refactoring esas alınarak hazırlanmış bir bilgi testi uygulaması. 
+OOP temelleri doğrultusunda ve code refactoring esas alınarak hazırlanmış bir bilgi testi yarışması. 
 
 #### *Random Alarm*
 
@@ -58,22 +58,22 @@ OOP temelleri doğrultusunda ve code refactoring esas alınarak hazırlanmış b
 
 #### -----------------İleri Seviye Uygulamalar-----------------
 
-Buradaki uygulamalar kullanıma hazır, code refectoring içeren ve bazılarında gerek duyulmasa veya kullanılmasa bile çoğunda
-uygulama mimarisi içeren (Genellikle MVMM) ve Provider, Getx, Bloc, Riverpod gibi çeşitli kütüphaneler ile state management sağlanmış, try catch yapısı ile hata yönetimi sağlayan, API'ler ile veya FireBase, CloudStorage gibi veri tabanları ile uyumlu çalışan servisleri olan,
+Buradaki uygulamalar kullanıma hazır, code refectoring içeren ve bazılarında gerek duyulmasa veya kullanılmasa bile çoğunda uygulama mimarisi içeren (Genellikle MVMM) ve Provider, Getx, Bloc, Riverpod gibi çeşitli kütüphaneler ile state management sağlanmış, try catch yapısı ile hata yönetimi sağlayan, API'ler ile veya FireBase, CloudStorage gibi veri tabanları ile uyumlu çalışan servisleri olan,
 ileri seviye widget ve paketleri içeren uygulamalardır.
 
-#### *Get It Done*
 
+#### *Get It Done*
+Provider ile state management sağlanmış, kullanıcıların görev kartları ekleyebildiği, kartlar üzerinde çeşitli işlemler gerçekleştirebildiği ve yapılan bu işlemlerin shared preferences ile cihaz hafızasında saklandığı bir "to-do list" uygulamasıdır.
 
 
 #### *Task Maven*
 Dynamic Theme & Local Push Notification & Get Storage & GetX Listview & Using Sqlite & Sqflite CRUD With Local Scheduled Notifications
 
-Task Maven, kullanıcıların görev eklediği ve bu görev kartları üzerinde çeşitli değişiklikler yapabildiği, yerel bildirimlerin ve tema değişikliklerinin bulunduğu dinamik ve kullanıcı dostu bir to-do list uygulamasıdır.
+Task Maven, kullanıcıların görev eklediği ve bu görev kartları üzerinde çeşitli işlemler yapabildiği, yerel bildirimlerin ve tema değişikliklerinin bulunduğu, dinamik, gelişmiş ve kullanıcı dostu bir "to-do list" uygulamasıdır.
 
 #### *Trip and Travel*
 
-State Management'ı Cubit ile sağlanmış ve cerilerin http isteği ile bir API'den çekilip sunulduğu bir seyahat uygulamasıdır. 
+State management'ı Bloc / Cubit ile sağlanmış ve uygulamada bulunan verilerin http isteği ile bir API'den çekilip sunulduğu, çeşitli widget ve paketlerin kullanıldığı bir seyahat uygulamasıdır. 
 
 #### *Authentication App*
 
@@ -81,6 +81,7 @@ Tamamlandı. İçerik bekleniyor...
 
 #### *Library App*
 
+Kullanıcıların yeni kitap ekleyebildiği, eklenilen kitap listeleri üzerinde düzenleme, silme ve ödünç kayıt listesi oluşturma işlemlerini gerçekleştirebildiği, ödünç kayıt listesi ekranında profil fotoğrafı gibi bilgiler ile birden fazla kullanıcı ekleyebildiği, yeni eklenen kitapları arama çubuğu ile filtreleyebildiği, yapılan işlemlerin gerçek zamanlı olarak Firestore bulut veritabanında da güncellendiği ve bu bağlamda Firestore ile ilgili CRUD işlemlerini gerçekleştiren servis ve metotları olan, MVMM Mimarisi ile oluşturulmuş dinamik bir kütüphane uygulamasıdır.
 
 #### *Instagram Clone*
 
