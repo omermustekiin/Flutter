@@ -1,6 +1,6 @@
 # Content
 
---------Temel başlangıç seviyesi uygulamaları---------
+--------Temel Başlangıç Seviyesi Uygulamalar---------
 
 Flutter ilk öğrenim zamanlarımda kurs ile birlikte veya kurstan bağımsız yaptığım,
 temel widgetları, paketleri ve Flutter mimarisini öğrenme sürecime katkı sağlayan uygulamalardır.
