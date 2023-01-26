@@ -67,7 +67,9 @@ Provider ile state management sağlanmış, kullanıcıların görev kartları e
 #### *Task Maven*
 Dynamic Theme & Local Push Notification & Get Storage & GetX Listview & Using Sqlite & Sqflite CRUD With Local Scheduled Notifications
 
-Task Maven, kullanıcıların görev eklediği ve bu görev kartları üzerinde çeşitli işlemler yapabildiği, yerel bildirimlerin ve tema değişikliklerinin bulunduğu, dinamik, gelişmiş ve kullanıcı dostu bir "to-do list" uygulamasıdır.
+Task Maven, kullanıcıların görev eklediği ve bu görev kartları üzerinde çeşitli işlemler yapabildiği, yerel bildirimlerin ve tema değişikliklerinin bulunduğu, GetX Route Management ve GetX Navigation kullanılmış, dinamik, gelişmiş ve kullanıcı dostu bir "to-do list" uygulamasıdır.
+
+
 
 #### *Trip and Travel*
 
