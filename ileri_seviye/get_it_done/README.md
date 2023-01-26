@@ -1,16 +1,18 @@
-# get_it_done
+# Get It Done
 
-A new Flutter project.
 
-## Getting Started
+Uygulama Splash Screen ile açılıyor.
 
-This project is a starting point for a Flutter application.
+Settings kısmından tema değişikliği yapılabiliyor. 
 
-A few resources to get you started if this is your first Flutter project:
+Kullanıcılar yeni görev ekleyebiliyor ve eklenilen görevler üzerinde çeşitli değişiklikler yapabiliyor.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Yapılan yenilik ve değişiklikler provider paketi ile bütün widget ağacına yayınlanıyor ve state management bu şekilde yapılyor. 
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+State management provider paketi ile kullanıcı tuşa basıp yeni görev eklediği zaman, görevlerin yapılıp yapılmadığını tikleyip işaretleyebiliyor ve bu değişikliklier provider paketi ile sağlanıyor.
+
+Kullanıcı, kaydırma işlemi ile görev silebiliyor ve state yönetimi ile uygulamanın ilgili widget’ları kendini yeniden inşa edebiliyor. 
+
+Tema ve görev kartı bilgilerini cihazın shared prefernces’ına kaydedebiliyoruz ve uygulama kapatıp açıldığı zaman kullanıcının yapmış olduğu işlemler kaybedilmiyor.
+
+Veri tabanı yönetimi en basit hali ıle shared preferences ile sağlanmıştır.
