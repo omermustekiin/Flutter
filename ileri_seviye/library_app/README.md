@@ -1,16 +1,4 @@
-# library_app
+# Library App
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Kullanıcıların yeni kitap ekleyebildiği, eklenilen kitap listeleri üzerinde düzenleme, silme ve ödünç kayıt listesi oluşturma işlemlerini gerçekleştirebildiği, ödünç kayıt listesi ekranında profil fotoğrafı gibi bilgiler ile birden fazla kullanıcı ekleyebildiği, yeni eklenen kitapları arama çubuğu ile filtreleyebildiği, yapılan işlemlerin gerçek zamanlı olarak Firestore bulut veritabanında da güncellendiği ve bu bağlamda Firestore ile ilgili CRUD işlemlerini gerçekleştiren servis ve metotları olan, MVMM Mimarisi ile oluşturulmuş dinamik bir kütüphane uygulamasıdır.
