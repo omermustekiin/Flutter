@@ -87,7 +87,7 @@ Firebase ve Firestore ile geliştirdiğim Web, IOS ve Android platformlarında r
 
 #### *Whatsapp Clone* 
 
-Tamamlandı. İçerik bekleniyor...
+Yapım aşamasında...
 
 #### *Class Tutorial* 
 
