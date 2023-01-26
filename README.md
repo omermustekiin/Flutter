@@ -87,11 +87,11 @@ Firebase ve Firestore ile geliştirdiğim Web, IOS ve Android platformlarında r
 
 #### *Whatsapp Clone* 
 
-Yapım aşamasında...
+Yapım aşamasında.
 
 #### *Class Tutorial* 
 
-Yapım aşamasında...
+Yapım aşamasında.
 
 #### *E-Commerce App With REST API*
 
