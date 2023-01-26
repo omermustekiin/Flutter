@@ -57,7 +57,7 @@ OOP temelleri doğrultusunda ve code refactoring esas alınarak hazırlanmış b
 
 #### --------------------İleri Seviye Uygulamalar--------------------
 
-*Buradaki uygulamalar kullanıma hazır, code refectoring içeren ve bazılarında gerek duyulmasa veya kullanılmasa bile çoğunda uygulama mimarisi içeren (Genellikle MVMM) ve Provider, Getx, Bloc, Riverpod gibi çeşitli kütüphaneler ile state management sağlanmış, try catch yapısı ile hata yönetimi sağlayan, API'ler ile veya FireBase, CloudStorage gibi veri tabanları ile uyumlu çalışan servisleri olan, ileri seviye widget ve paketleri içeren uygulamalardır.*
+*Buradaki uygulamalar kullanıma hazır, code refectoring içeren ve bazılarında gerek duyulmasa veya kullanılmasa bile çoğunda uygulama mimarisi içeren (genellikle MVMM) ve Provider, Getx, Bloc, Riverpod gibi çeşitli kütüphaneler ile state management sağlanmış, try catch yapısı ile hata yönetimi sağlayan, API'ler ile veya FireBase, CloudStorage gibi veri tabanları ile uyumlu çalışan servisleri olan, ileri seviye widget ve paketleri içeren uygulamalardır.*
 
 
 #### *Get It Done*
