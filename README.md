@@ -97,6 +97,10 @@ Yapım aşamasında.
 
 Çok yakında...
 
+#### *Hava Durumu*
+
+Tamamlandı. İçerik bekleniyor...
+
 #### *Educational App* 
 
 Çok yakında...
@@ -105,9 +109,6 @@ Yapım aşamasında.
 
 Çok yakında...
 
-#### *Hava Durumu*
-
-Çok yakında...
 
 #### *Weight Tracker App*
 
