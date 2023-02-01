@@ -46,6 +46,10 @@ Kullanışlı ve modern arayüzü ile çeşitli hesaplamalar yapılablen bir hes
 
 OOP temelleri doğrultusunda ve code refactoring esas alınarak hazırlanmış bir bilgi testi yarışması. 
 
+#### *Authentication App*
+
+Tamamlandı. İçerik bekleniyor...
+
 #### *Random Alarm*
 
 Çok yakında...
@@ -70,14 +74,10 @@ Dynamic Theme & Local Push Notification & Get Storage & GetX Listview & Using Sq
 Task Maven, kullanıcıların görev eklediği ve bu görev kartları üzerinde çeşitli işlemler yapabildiği, yerel bildirimlerin ve tema değişikliklerinin bulunduğu, GetX Route Management ve GetX Navigation kullanılmış, dinamik, gelişmiş ve kullanıcı dostu bir "to-do list" uygulamasıdır.
 
 
-
 #### *Trip and Travel*
 
 State management'ı Bloc / Cubit ile sağlanmış ve uygulamada bulunan verilerin http isteği ile bir API'den çekilip sunulduğu, çeşitli widget ve paketlerin kullanıldığı bir seyahat uygulamasıdır. 
 
-#### *Authentication App*
-
-Tamamlandı. İçerik bekleniyor...
 
 #### *Library App*
 
@@ -87,30 +87,29 @@ Kullanıcıların yeni kitap ekleyebildiği, eklenilen kitap listeleri üzerinde
 
 Firebase ve Firestore ile geliştirdiğim Web, IOS ve Android platformlarında responsive olarak çalışabilen bir Instagram klonudur. Authentication, profil oluşturma, gönderi ekleme, kullanıcıları takip etme ve gönderi beğenme gibi Instagramın içerdiği çeşitli sosyal medya etkileşimlerini tamamı ile kapsar. 
 
+#### *Amazon Clone* 
+
+Yapım aşamasında. %30...
+
 #### *Whatsapp Clone* 
 
-Yapım aşamasında.
-
-#### *Class Tutorial* 
-
-Yapım aşamasında.
-
-#### *E-Commerce App With REST API*
-
-Çok yakında...
+Yapım aşamasında. %50...
 
 #### *Hava Durumu*
 
 Tamamlandı. İçerik bekleniyor...
 
+#### *Class Tutorial* 
+
+Çok yakında...
+
+#### *E-Commerce App With REST API*
+
+Çok yakında...
+
 #### *Educational App* 
 
 Çok yakında...
-
-#### *Amazon Clone* 
-
-Çok yakında...
-
 
 #### *Weight Tracker App*
 
