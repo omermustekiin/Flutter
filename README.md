@@ -89,7 +89,7 @@ Firebase ve Firestore ile geliştirdiğim Web, IOS ve Android platformlarında r
 
 #### *Amazon Clone* (Yapım aşamasında. %85...)
 
-10 farklı ekran ve ihtiyaca yönelik kendim oluşturduğum 20 farklı özel widget'a sahip, dinamik ve gerçek zamanlı bir Amazon E-ticaret uygulaması.
+10+ farklı ekran ve ihtiyaca yönelik kendim oluşturduğum 20+ farklı özel widget'a sahip, dinamik ve gerçek zamanlı bir Amazon E-ticaret uygulaması.
 
 *Özellikler:*
 
