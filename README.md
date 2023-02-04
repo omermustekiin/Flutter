@@ -89,23 +89,32 @@ Firebase ve Firestore ile geliştirdiğim Web, IOS ve Android platformlarında r
 
 #### *Amazon Clone* (Yapım aşamasında. %70...)
 
-Oturum açma, kapatma ve kalıcı giriş özellikli Authentication modülü olan, 
+10 farklı ekran ve ihtiyaca yönelik kendim oluşturduğum 20 farklı özel widget'a sahip, dinamik ve gerçek zamanlı bir Amazon E-ticaret uygulaması.
+
+*Özellikler:*
+
+Oturum açma, kapatma ve kalıcı giriş özellikli Authentication modülü, 
 
 
-Farklı ürünlerin bulunup görüntülenebildiği,
+Farklı ürünlerin bulunması ve görüntülenmesi,
 
 
-Ürünlere yorum ve derecelendirme eklenebildiği,
+Ürünlere yorum ve derecelendirme eklenmesi,
 
 
-Search bar ile ürün araması yapılabildiği,
+Search bar ile ürün araması,
 
 
-Ürün satabildiğimiz veya sepetimize ekleyebildiğimiz,
+Ürün satma, 
 
 
-Sepete eklenen ürünü sipariş verebildiğimiz (Satıcıya sipariş isteği gönderilir)
-bir Amazon E-ticaret uygulamasıdır.
+Sepete ürün ekleme,
+
+
+Sepete eklenen ürünlerin sipariş verilmesi (Satıcıya sipariş isteği gönderilir)
+
+
+Önceki ve bekleyen siparişlerin görüntülenebilmesi
 
 
 #### *Whatsapp Clone* 
