@@ -89,7 +89,7 @@ Firebase ve Firestore ile geliştirdiğim Web, IOS ve Android platformlarında r
 
 #### *Amazon Clone* (Yapım aşamasında. %70...)
 
-Oturum açma ve kapatma, kalıcı giriş özellikli Authentication modülü olan, 
+Oturum açma, kapatma ve kalıcı giriş özellikli Authentication modülü olan, 
 
 
 Farklı ürünlerin bulunup görüntülenebildiği,
@@ -104,9 +104,7 @@ Search bar ile ürün araması yapılabildiği,
 Ürün satabildiğimiz veya sepetimize ekleyebildiğimiz,
 
 
-Sepete eklenen ürünü sipariş verebildiğimiz (Satıcıya sipariş isteği gönderilir),
-
-
+Sepete eklenen ürünü sipariş verebildiğimiz (Satıcıya sipariş isteği gönderilir)
 bir Amazon E-ticaret uygulamasıdır.
 
 
