@@ -87,9 +87,28 @@ Kullanıcıların yeni kitap ekleyebildiği, eklenilen kitap listeleri üzerinde
 
 Firebase ve Firestore ile geliştirdiğim Web, IOS ve Android platformlarında responsive olarak çalışabilen bir Instagram klonudur. Authentication, profil oluşturma, gönderi ekleme, kullanıcıları takip etme ve gönderi beğenme gibi Instagramın içerdiği çeşitli sosyal medya etkileşimlerini tamamı ile kapsar. 
 
-#### *Amazon Clone* 
+#### *Amazon Clone* (Yapım aşamasında. %70...)
 
-Yapım aşamasında. %70...
+Oturum açma ve kapatma, kalıcı giriş özellikli Authentication modülü olan, 
+
+
+Farklı ürünlerin bulunup görüntülenebildiği,
+
+
+Ürünlere yorum ve derecelendirme eklenebildiği,
+
+
+Search bar ile ürün araması yapılabildiği,
+
+
+Ürün satabildiğimiz veya sepetimize ekleyebildiğimiz,
+
+
+Sepete eklenen ürünü sipariş verebildiğimiz (Satıcıya sipariş isteği gönderilir),
+
+
+bir Amazon E-ticaret uygulamasıdır.
+
 
 #### *Whatsapp Clone* 
 
