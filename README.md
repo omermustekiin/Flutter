@@ -89,7 +89,7 @@ Firebase ve Firestore ile geliştirdiğim Web, IOS ve Android platformlarında r
 
 #### *Amazon Clone* 
 
-Yapım aşamasında. %30...
+Yapım aşamasında. %70...
 
 #### *Whatsapp Clone* 
 
