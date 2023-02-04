@@ -89,9 +89,9 @@ Firebase ve Firestore ile geliştirdiğim Web, IOS ve Android platformlarında r
 
 #### *Amazon E-Commerce App* (Yapım aşamasında. %85...)
 
-10+ farklı ekran ve ihtiyaca yönelik kendim oluşturduğum 20+ farklı özel widget'a sahip, dinamik ve gerçek zamanlı bir Amazon E-ticaret uygulaması.
+Firebase ve Firestore ile geliştirdiğim, Web, IOS ve Android platformlarında responsive olarak çalışabilen, 10+ farklı ekran ve ihtiyaca yönelik kendim oluşturduğum 20+ farklı özel widget'a sahip, Provider ile state management sağlanmış, dinamik ve gerçek zamanlı bir Amazon E-ticaret uygulaması.
 
-*Özellikler:*
+*Temel Özellikler:*
 
 Oturum açma, kapatma ve kalıcı giriş özellikli Authentication modülü, 
 
@@ -111,10 +111,10 @@ Search bar ile ürün araması,
 Sepete ürün ekleme,
 
 
-Sepete eklenen ürünlerin sipariş verilmesi (Satıcıya sipariş isteği gönderilir)
+Sepete eklenen ürünlerin sipariş verilmesi (Satıcıya sipariş isteği gönderilir),
 
 
-Önceki ve bekleyen siparişlerin görüntülenebilmesi
+Geçmiş ve bekleyen siparişlerin görüntülenebilmesi.
 
 
 #### *Whatsapp Clone* 
