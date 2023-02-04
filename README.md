@@ -89,7 +89,7 @@ Firebase ve Firestore ile geliştirdiğim Web, IOS ve Android platformlarında r
 
 #### *Amazon E-Commerce App* (Yapım aşamasında. %85...)
 
-Firebase ve Firestore ile geliştirdiğim, Web, IOS ve Android platformlarında responsive olarak çalışabilen, 10+ farklı ekran ve ihtiyaca yönelik kendim oluşturduğum 20+ farklı özel widget'a sahip, Provider ile state management sağlanmış, dinamik ve gerçek zamanlı bir Amazon E-ticaret uygulaması.
+Firebase ve Firestore ile geliştirdiğim, Web, IOS ve Android platformlarında responsive olarak çalışabilen, 10+ farklı ekran arayüzüne ve ihtiyaca yönelik kendim oluşturduğum 20+ farklı özel widget'a sahip, Provider ile state management sağlanmış, dinamik ve gerçek zamanlı bir Amazon E-ticaret uygulaması.
 
 
 #### *Whatsapp Clone* 
