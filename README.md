@@ -98,7 +98,7 @@ Yapım aşamasında. %50...
 
 #### *Hava Durumu*
 
-Tamamlandı. İçerik bekleniyor... (%99)
+Tamamlandı. İçerik bekleniyor. %99...
 
 #### *Class Tutorial* 
 
