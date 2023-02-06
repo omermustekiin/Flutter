@@ -48,7 +48,7 @@ OOP temelleri doğrultusunda ve code refactoring esas alınarak hazırlanmış b
 
 #### *Authentication App*
 
-Tamamlandı. İçerik bekleniyor...
+Tamamlandı. İçerik bekleniyor...(%99)
 
 #### *Random Alarm*
 
@@ -98,7 +98,7 @@ Yapım aşamasında. %50...
 
 #### *Hava Durumu*
 
-Tamamlandı. İçerik bekleniyor...
+Tamamlandı. İçerik bekleniyor... (%99)
 
 #### *Class Tutorial* 
 
