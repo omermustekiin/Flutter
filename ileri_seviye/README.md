@@ -1,7 +1,7 @@
 ## İleri Seviye Uygulamalar
 Buradaki uygulamalar kullanıma hazır, code refectoring içeren ve bazılarında gerek duyulmasa veya kullanılmasa bile çoğunda uygulama mimarisi içeren 
 (genellikle MVMM) ve Provider, Getx, Bloc, Riverpod gibi çeşitli kütüphaneler ile state management sağlanmış, try catch yapısı ile hata yönetimi sağlayan, 
-API'ler ile veya SQLite, Firestore, CloudStorage gibi veri tabanları ile uyumlu çalışan servisleri olan, ileri seviye widget ve paketleri içeren uygulamalardır.
+API'ler ile veya SQLite, Firebase, Firestore gibi veri tabanları ile uyumlu çalışan servisleri olan, ileri seviye widget ve paketleri içeren uygulamalardır.
 
 #### *Trip and Travel*
 State management'ı Bloc / Cubit ile sağlanmış ve uygulamada bulunan verilerin http isteği ile bir API'den çekilip sunulduğu, çeşitli widget ve paketlerin kullanıldığı bir seyahat uygulamasıdır.
