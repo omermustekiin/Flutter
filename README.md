@@ -60,26 +60,27 @@ Tamamlandı. İçerik bekleniyor...(%99)
 *Buradaki uygulamalar kullanıma hazır, code refectoring içeren ve bazılarında gerek duyulmasa veya kullanılmasa bile çoğunda uygulama mimarisi içeren (genellikle MVMM) ve Provider, Getx, Bloc, Riverpod gibi çeşitli kütüphaneler ile state management sağlanmış, try catch yapısı ile hata yönetimi sağlayan, API'ler ile veya SQLite, Firestore, CloudStorage gibi veri tabanları ile uyumlu çalışan servisleri olan, ileri seviye widget ve paketleri içeren uygulamalardır.*
 
 
-#### *Get It Done*
+#### <a href="https://github.com/omermustekiin/Flutter/tree/master/ileri_seviye/get_it_done"> Get It Done </a>
+
 Provider ile state management sağlanmış, kullanıcıların görev kartları ekleyebildiği, kartlar üzerinde çeşitli işlemler gerçekleştirebildiği ve yapılan bu işlemlerin shared preferences ile cihaz hafızasında saklandığı bir "to-do list" uygulamasıdır.
 
 
-#### *Task Maven*
+#### <a href="https://github.com/omermustekiin/Flutter/tree/master/ileri_seviye/task_maven"> Task Maven </a>
 Dynamic Theme & Local Push Notification & Get Storage & GetX Listview & Using Sqlite & Sqflite CRUD With Local Scheduled Notifications
 
 Task Maven, kullanıcıların görev eklediği ve bu görev kartları üzerinde çeşitli işlemler yapabildiği, yerel bildirimlerin ve tema değişikliklerinin bulunduğu, GetX Route Management ve GetX Navigation kullanılmış, dinamik, gelişmiş ve kullanıcı dostu bir "to-do list" uygulamasıdır.
 
 
-#### *Trip and Travel*
+#### <a href="https://github.com/omermustekiin/Flutter/tree/master/ileri_seviye/Trip_and_Travel"> Trip and Travel </a>
 
 State management'ı Bloc / Cubit ile sağlanmış ve uygulamada bulunan verilerin http isteği ile bir API'den çekilip sunulduğu, çeşitli widget ve paketlerin kullanıldığı bir seyahat uygulamasıdır. 
 
 
-#### *Library App*
+#### <a href="https://github.com/omermustekiin/Flutter/tree/master/ileri_seviye/library_app"> Library App </a>
 
 Kullanıcıların yeni kitap ekleyebildiği, eklenilen kitap listeleri üzerinde düzenleme, silme ve ödünç kayıt listesi oluşturma işlemlerini gerçekleştirebildiği, ödünç kayıt listesi ekranında profil fotoğrafı gibi bilgiler ile birden fazla kullanıcı ekleyebildiği, yeni eklenen kitapları arama çubuğu ile filtreleyebildiği, yapılan işlemlerin gerçek zamanlı olarak Firestore bulut veritabanında da güncellendiği ve bu bağlamda Firestore ile ilgili CRUD işlemlerini gerçekleştiren servis ve metotları olan, MVMM Mimarisi ile oluşturulmuş dinamik bir kütüphane uygulamasıdır.
 
-#### *Instagram Clone*
+#### <a href="https://github.com/omermustekiin/Flutter/tree/master/ileri_seviye/instagram_clone"> Instagram Clone </a>
 
 Firebase ve Firestore ile geliştirdiğim Web, IOS ve Android platformlarında responsive olarak çalışabilen bir Instagram klonudur. Authentication, profil oluşturma, gönderi ekleme, kullanıcıları takip etme ve gönderi beğenme gibi Instagramın içerdiği çeşitli sosyal medya etkileşimlerini tamamı ile kapsar. 
 
