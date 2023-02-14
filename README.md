@@ -27,7 +27,7 @@ Liste içerisinde tutulan fal bilgilerini ilgili tuşlara göre kullanıcının 
 #### --------------------Orta Seviye Uygulamalar--------------------
 
 *İlerleyen Flutter öğrenim sürecimde OOP bilgilerimi Dart dili üzerinde geliştirdiğim, temel ve orta 
-seviye widgetları ve paketleri kullandığım uygulamalardır.
+seviye widgetları ve paketleri kullandığım uygulamalardır.*
 
 #### <a href="https://github.com/omermustekiin/Flutter/tree/master/orta_seviye/Beklenen_Yasam_Suresi"> Beklenen Yaşam Süresi </a>
 
