@@ -19,3 +19,9 @@ Kullanıcıların yeni kitap ekleyebildiği, eklenilen kitap listeleri üzerinde
 Dynamic Theme & Local Push Notification & Get Storage & GetX Listview & Using Sqlite & Sqflite CRUD With Local Scheduled Notifications
 
 Task Maven, kullanıcıların görev eklediği ve bu görev kartları üzerinde çeşitli işlemler yapabildiği, yerel bildirimlerin ve tema değişikliklerinin bulunduğu, GetX Route Management ve GetX Navigation kullanılmış, dinamik, gelişmiş ve kullanıcı dostu bir "to-do list" uygulamasıdır.
+
+#### **
+
+Firebase ve Firestore ile geliştirdiğim, Web, IOS ve Android platformlarında responsive olarak çalışabilen, 10+ farklı ekran arayüzüne ve ihtiyaca yönelik kendim oluşturduğum 20+ farklı özel widget'a sahip, Provider ile state management sağlanmış, Authentication ve Cloud Firestore veritabanı ile ilgili servis metotları içeren, dinamik ve gerçek zamanlı bir Amazon E-ticaret uygulaması.
+
+Kullanıcılar kayıt olduktan sonra hesaplarına giriş yapıp, reklam içerikleri bulunan ana sayfadan çeşitli indirim kategorilerinde bulunan ürünleri inceleyip satın alabilir veya sepetine ekleyebilir. Arama çubuğu ile ürün araması yapılabilir. Kullanıcılar satış yap ekranında bir ürün satışı yapabilir ve satışı yapılan ürün ana sayfada ilgili indirim oranına göre listelenmiş ürünlerin arasında gösterilerek erişilebilir hale gelir. Yapılan tüm işlemler gerçek zamanlı olarak veri tabanında "kullanıcılar", "ürünler", "satışa konan ürünler", "sepet", "siparişi tamamlanan ürünler" olarak ayrı ayrı collection ve document'ler halinde kaydedilir.
