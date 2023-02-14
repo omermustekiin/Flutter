@@ -33,7 +33,7 @@ seviye widgetları ve paketleri kullandığım uygulamalardır.
 
 Kendi oluşturduğum ve diğer çeşitli hazır widgetlar ile kullanıcıdan alınan verileri işleyerek sonuç sayfasında kullanıcıya beklenilen yaşam süresi olarak gösteren ve sayfalar arası veri aktarımı hakkında bilgiler içeren bir uygulama.
 
-#### <a href="https://github.com/omermustekiin/Flutter/tree/master/ortal_seviye/movieApp"> Movie App </a>
+#### <a href="https://github.com/omermustekiin/Flutter/tree/master/orta_seviye/movieApp"> Movie App </a>
 
 Figmada tasarlanan bir film uygulamasının ekran tasarımlarını içeren uygulama.
 
