@@ -7,19 +7,19 @@ temel widgetları, paketleri ve Flutter mimarisini öğrenme sürecime katkı sa
 Bu uygulamaların çoğu code refactoring içermez ve herhangi bir mimariye sahip değillerdir.*
 
 
-#### *Flutter Kahvecisi* 
+* #### <a href="https://github.com/omermustekiin/Flutter/tree/master/temel_seviye/flutter_kahvecisi">  Flutter Kahvecisi </a> *
 
 Bir kahve firmasının giriş sayfası tasarımı.
 
-#### *Bugün Ne Yesem*
+* #### <a href="https://github.com/omermustekiin/Flutter/tree/master/temel_seviye/Bugun_Ne_Yesem"> Bugün Ne Yesem </a> *
 
 Kullanıcının karşısına her ekrana tıklandığında random olarak bir yemek menüsü sunan basit bir uygulama.
 
-#### *Drum Machine*
+* #### <a href="https://github.com/omermustekiin/Flutter/tree/master/temel_seviye/Drum_Machine">  Drum Machine </a> *
 
 Her kutucuğa tıklandığında o kutucuğa ait audio uzantısının çalıştığı ve ses çıkardığı bir basit muzik uygulaması.
 
-#### *Fal Getir*
+* #### <a href="https://github.com/omermustekiin/Flutter/tree/master/temel_seviye/Fal_Getir"> Fal Getir </a> *
 
 Liste içerisinde tutulan fal bilgilerini ilgili tuşlara göre kullanıcının karşısına getiren fal uygulaması.
 
