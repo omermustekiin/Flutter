@@ -89,14 +89,17 @@ Firebase ve Firestore ile geliştirdiğim, Web, IOS ve Android platformlarında 
 
 Kullanıcılar kayıt olduktan sonra hesaplarına giriş yapıp, reklam içerikleri olan ana sayfadan çeşitli indirim kategorilerinde bulunan ürünleri inceleyip satın alabilir veya sepetine ekleyebilir. Arama çubuğu ile ürün araması yapılabilir. Kullanıcılar satış yap ekranında bir ürün satışı yapabilir ve satışı yapılan ürün ana sayfada ilgili indirim oranına göre listelenmiş ürünlerin arasında gösterilerek erişilebilir hale gelir. Yapılan tüm işlemler gerçek zamanlı olarak veri tabanında "kullanıcılar", "ürünler", "satışa konan ürünler", "sepet", "siparişi tamamlanan ürünler" olarak ayrı ayrı collection ve document halinde kaydedilir.
 
+#### *Hava Durumu*
+
+Ücretsiz bir API servisi tarafından alınan hizmet ile uygulama içerisinde farklı şehirlere ait hava durumu bilgilerinin sunulabildiği, http paketi kullanılarak bir API'dan veri alınıp işlenerek kullanıcıya sunulduğu bir hava durumu uygulamasıdır. Ayrıca geolocator paketi ile kullanıcının anlık konum bilgisi uygulama başlatılırken alınarak kullanıcının bulunduğu konuma göre hava durumu ve şehir bilgisi ile beraber 5 günlük hava durumu bilgisi de arayüzde sunulur.
+
+#### *Chat GPT* 
+
+Yapım aşamasında. %30...
 
 #### *Whatsapp Clone* 
 
 Yapım aşamasında. %50...
-
-#### *Hava Durumu*
-
-Tamamlandı. İçerik bekleniyor. %99...
 
 #### *Class Tutorial* 
 
@@ -121,11 +124,3 @@ Tamamlandı. İçerik bekleniyor. %99...
 #### *Quiz App*
 
 Çok yakında...
-
-
-
-
-
-
-
-
