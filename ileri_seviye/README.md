@@ -20,7 +20,7 @@ Dynamic Theme & Local Push Notification & Get Storage & GetX Listview & Using Sq
 
 Task Maven, kullanıcıların görev eklediği ve bu görev kartları üzerinde çeşitli işlemler yapabildiği, yerel bildirimlerin ve tema değişikliklerinin bulunduğu, GetX Route Management ve GetX Navigation kullanılmış, dinamik, gelişmiş ve kullanıcı dostu bir "to-do list" uygulamasıdır.
 
-#### **
+#### *Amazon E-Commerce App (Tamamlandı. İçerik bekleniyor...)*
 
 Firebase ve Firestore ile geliştirdiğim, Web, IOS ve Android platformlarında responsive olarak çalışabilen, 10+ farklı ekran arayüzüne ve ihtiyaca yönelik kendim oluşturduğum 20+ farklı özel widget'a sahip, Provider ile state management sağlanmış, Authentication ve Cloud Firestore veritabanı ile ilgili servis metotları içeren, dinamik ve gerçek zamanlı bir Amazon E-ticaret uygulaması.
 
