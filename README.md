@@ -45,11 +45,11 @@ Kullanışlı ve modern arayüzü ile çeşitli hesaplamalar yapılablen bir hes
 
 OOP temelleri doğrultusunda ve code refactoring esas alınarak hazırlanmış bir bilgi testi yarışması. 
 
-#### *Authentication App*
+#### Authentication App
 
 Tamamlandı. İçerik bekleniyor...(%99)
 
-#### *Random Alarm*
+#### Random Alarm
 
 Çok yakında...
 
@@ -84,44 +84,44 @@ Kullanıcıların yeni kitap ekleyebildiği, eklenilen kitap listeleri üzerinde
 
 Firebase ve Firestore ile geliştirdiğim Web, IOS ve Android platformlarında responsive olarak çalışabilen bir Instagram klonudur. Authentication, profil oluşturma, gönderi ekleme, kullanıcıları takip etme ve gönderi beğenme gibi Instagramın içerdiği çeşitli sosyal medya etkileşimlerini tamamı ile kapsar. 
 
-#### *Amazon E-Commerce App* (Tamamlandı. İçerik bekleniyor...)
+#### Amazon E-Commerce App (Tamamlandı. İçerik bekleniyor...)
 
 Firebase ve Firestore ile geliştirdiğim, Web, IOS ve Android platformlarında responsive olarak çalışabilen, 10+ farklı ekran arayüzüne ve ihtiyaca yönelik kendim oluşturduğum 20+ farklı özel widget'a sahip, Provider ile state management sağlanmış, Authentication ve Cloud Firestore veritabanı ile ilgili servis metotları içeren, dinamik ve gerçek zamanlı bir Amazon E-ticaret uygulaması.
 
 Kullanıcılar kayıt olduktan sonra hesaplarına giriş yapıp, reklam içerikleri bulunan ana sayfadan çeşitli indirim kategorilerinde bulunan ürünleri inceleyip satın alabilir veya sepetine ekleyebilir. Arama çubuğu ile ürün araması yapılabilir. Kullanıcılar satış yap ekranında bir ürün satışı yapabilir ve satışı yapılan ürün ana sayfada ilgili indirim oranına göre listelenmiş ürünlerin arasında gösterilerek erişilebilir hale gelir. Yapılan tüm işlemler gerçek zamanlı olarak veri tabanında "kullanıcılar", "ürünler", "satışa konan ürünler", "sepet", "siparişi tamamlanan ürünler" olarak ayrı ayrı collection ve document'ler halinde kaydedilir.
 
-#### *Hava Durumu* (Tamamlandı. İçerik bekleniyor...)
+#### Hava Durumu (Tamamlandı. İçerik bekleniyor...)
 
 Ücretsiz bir API servisi tarafından alınan hizmet ile uygulama içerisinde farklı şehirlere ait hava durumu bilgilerinin sunulabildiği, http paketi kullanılarak bir API'dan veri alınıp işlenerek kullanıcıya sunulduğu bir hava durumu uygulamasıdır. Ayrıca geolocator paketi ile kullanıcının anlık konum bilgisi uygulama başlatılırken alınarak kullanıcının bulunduğu konuma göre hava durumu ve şehir bilgisi ile beraber 5 günlük hava durumu bilgisi de arayüzde sunulur.
 
-#### *Chat GPT* 
+#### Chat GPT
 
 Yapım aşamasında. %30...
 
-#### *Whatsapp Clone* 
+#### Whatsapp Clone
 
 Yapım aşamasında. %50...
 
-#### *Class Tutorial* 
+#### Class Tutorial
 
 Çok yakında...
 
-#### *E-Commerce App With REST API*
+#### E-Commerce App With REST API
 
 Çok yakında...
 
-#### *Educational App* 
+#### Educational App
 
 Çok yakında...
 
-#### *Weight Tracker App*
+#### Weight Tracker App
 
 Çok yakında...
 
-#### *Chat app*
+#### Chat app
 
 Çok yakında...
 
-#### *Quiz App*
+#### Quiz App
 
 Çok yakında...
