@@ -27,8 +27,7 @@ Liste içerisinde tutulan fal bilgilerini ilgili tuşlara göre kullanıcının 
 #### --------------------Orta Seviye Uygulamalar--------------------
 
 *İlerleyen Flutter öğrenim sürecimde OOP bilgilerimi Dart dili üzerinde geliştirdiğim, temel ve orta 
-seviye widgetları ve paketleri kullandığım uygulamalardır. Bu uygulamalar OOP temellerini ve tam 
-olmamakla birlikte code refactoring içeren uygulamalardır.*
+seviye widgetları ve paketleri kullandığım uygulamalardır.
 
 #### *Beklenen Yaşam Süresi*
 
