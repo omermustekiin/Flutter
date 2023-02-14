@@ -7,19 +7,19 @@ temel widgetları, paketleri ve Flutter mimarisini öğrenme sürecime katkı sa
 Bu uygulamaların çoğu code refactoring içermez ve herhangi bir mimariye sahip değillerdir.*
 
 
-* #### <a href="https://github.com/omermustekiin/Flutter/tree/master/temel_seviye/flutter_kahvecisi">  Flutter Kahvecisi </a> *
+#### <a href="https://github.com/omermustekiin/Flutter/tree/master/temel_seviye/flutter_kahvecisi">  Flutter Kahvecisi </a>
 
 Bir kahve firmasının giriş sayfası tasarımı.
 
-* #### <a href="https://github.com/omermustekiin/Flutter/tree/master/temel_seviye/Bugun_Ne_Yesem"> Bugün Ne Yesem </a> *
+#### <a href="https://github.com/omermustekiin/Flutter/tree/master/temel_seviye/Bugun_Ne_Yesem"> Bugün Ne Yesem </a>
 
 Kullanıcının karşısına her ekrana tıklandığında random olarak bir yemek menüsü sunan basit bir uygulama.
 
-* #### <a href="https://github.com/omermustekiin/Flutter/tree/master/temel_seviye/Drum_Machine">  Drum Machine </a> *
+#### <a href="https://github.com/omermustekiin/Flutter/tree/master/temel_seviye/Drum_Machine">  Drum Machine </a>
 
 Her kutucuğa tıklandığında o kutucuğa ait audio uzantısının çalıştığı ve ses çıkardığı bir basit muzik uygulaması.
 
-* #### <a href="https://github.com/omermustekiin/Flutter/tree/master/temel_seviye/Fal_Getir"> Fal Getir </a> *
+#### <a href="https://github.com/omermustekiin/Flutter/tree/master/temel_seviye/Fal_Getir"> Fal Getir </a>
 
 Liste içerisinde tutulan fal bilgilerini ilgili tuşlara göre kullanıcının karşısına getiren fal uygulaması.
 
@@ -29,19 +29,20 @@ Liste içerisinde tutulan fal bilgilerini ilgili tuşlara göre kullanıcının 
 *İlerleyen Flutter öğrenim sürecimde OOP bilgilerimi Dart dili üzerinde geliştirdiğim, temel ve orta 
 seviye widgetları ve paketleri kullandığım uygulamalardır.
 
-#### *Beklenen Yaşam Süresi*
+#### <a href="https://github.com/omermustekiin/Flutter/tree/master/temel_seviye/Beklenen_Yasam_Suresi"> Beklenen Yaşam Süresi </a>
 
 Kendi oluşturduğum ve diğer çeşitli hazır widgetlar ile kullanıcıdan alınan verileri işleyerek sonuç sayfasında kullanıcıya beklenilen yaşam süresi olarak gösteren ve sayfalar arası veri aktarımı hakkında bilgiler içeren bir uygulama.
 
-#### *Movie App*
+#### <a href="https://github.com/omermustekiin/Flutter/tree/master/temel_seviye/movieApp"> Movie App </a>
 
 Figmada tasarlanan bir film uygulamasının ekran tasarımlarını içeren uygulama.
 
-#### *Calculator App*
+#### <a href="https://github.com/omermustekiin/Flutter/tree/master/temel_seviye/calculator_App"> Calculator App </a>
 
 Kullanışlı ve modern arayüzü ile çeşitli hesaplamalar yapılablen bir hesap makinesi uygulaması.
 
-#### *Bilgi Testi*
+#### <a href="https://github.com/omermustekiin/Flutter/tree/master/temel_seviye/Bilgi_Testi
+"> Bilgi Testi </a>
 
 OOP temelleri doğrultusunda ve code refactoring esas alınarak hazırlanmış bir bilgi testi yarışması. 
 
