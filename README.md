@@ -29,19 +29,19 @@ Liste içerisinde tutulan fal bilgilerini ilgili tuşlara göre kullanıcının 
 *İlerleyen Flutter öğrenim sürecimde OOP bilgilerimi Dart dili üzerinde geliştirdiğim, temel ve orta 
 seviye widgetları ve paketleri kullandığım uygulamalardır.
 
-#### <a href="https://github.com/omermustekiin/Flutter/tree/master/temel_seviye/Beklenen_Yasam_Suresi"> Beklenen Yaşam Süresi </a>
+#### <a href="https://github.com/omermustekiin/Flutter/tree/master/orta_seviye/Beklenen_Yasam_Suresi"> Beklenen Yaşam Süresi </a>
 
 Kendi oluşturduğum ve diğer çeşitli hazır widgetlar ile kullanıcıdan alınan verileri işleyerek sonuç sayfasında kullanıcıya beklenilen yaşam süresi olarak gösteren ve sayfalar arası veri aktarımı hakkında bilgiler içeren bir uygulama.
 
-#### <a href="https://github.com/omermustekiin/Flutter/tree/master/temel_seviye/movieApp"> Movie App </a>
+#### <a href="https://github.com/omermustekiin/Flutter/tree/master/ortal_seviye/movieApp"> Movie App </a>
 
 Figmada tasarlanan bir film uygulamasının ekran tasarımlarını içeren uygulama.
 
-#### <a href="https://github.com/omermustekiin/Flutter/tree/master/temel_seviye/calculator_App"> Calculator App </a>
+#### <a href="https://github.com/omermustekiin/Flutter/tree/master/orta_seviye/calculator_App"> Calculator App </a>
 
 Kullanışlı ve modern arayüzü ile çeşitli hesaplamalar yapılablen bir hesap makinesi uygulaması.
 
-#### <a href="https://github.com/omermustekiin/Flutter/tree/master/temel_seviye/Bilgi_Testi"> Bilgi Testi </a>
+#### <a href="https://github.com/omermustekiin/Flutter/tree/master/orta_seviye/Bilgi_Testi"> Bilgi Testi </a>
 
 OOP temelleri doğrultusunda ve code refactoring esas alınarak hazırlanmış bir bilgi testi yarışması. 
 
