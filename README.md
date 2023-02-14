@@ -41,8 +41,7 @@ Figmada tasarlanan bir film uygulamasının ekran tasarımlarını içeren uygul
 
 Kullanışlı ve modern arayüzü ile çeşitli hesaplamalar yapılablen bir hesap makinesi uygulaması.
 
-#### <a href="https://github.com/omermustekiin/Flutter/tree/master/temel_seviye/Bilgi_Testi
-"> Bilgi Testi </a>
+#### <a href="https://github.com/omermustekiin/Flutter/tree/master/temel_seviye/Bilgi_Testi"> Bilgi Testi </a>
 
 OOP temelleri doğrultusunda ve code refactoring esas alınarak hazırlanmış bir bilgi testi yarışması. 
 
