@@ -27,7 +27,7 @@ class ColorThemeData with ChangeNotifier {
     ),
   );
 
-  ThemeData _selectedThemeData = ThemeData(
+  final ThemeData _selectedThemeData = ThemeData(
     primaryColor: Colors.deepPurple[300],
     primarySwatch: Colors.deepPurple,
     scaffoldBackgroundColor: Colors.deepPurple[300],

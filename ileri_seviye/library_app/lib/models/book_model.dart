@@ -17,7 +17,7 @@ class Book {
         'publishDate': publishDate
       };
 
-  /// mapTen obje oluşturan yapıcı
+  /// mapten obje oluşturan yapıcı
 
   factory Book.fromMap(Map map) => Book(
       id: map['id'],
