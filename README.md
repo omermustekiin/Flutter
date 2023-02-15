@@ -94,7 +94,7 @@ Firebase ve Firestore ile geliştirdiğim, Web, IOS ve Android platformlarında 
 
 Kullanıcılar kayıt olduktan sonra hesaplarına giriş yapıp, reklam içerikleri bulunan ana sayfadan çeşitli indirim kategorilerinde bulunan ürünleri inceleyip satın alabilir veya sepetine ekleyebilir. Arama çubuğu ile ürün araması yapılabilir. Kullanıcılar satış yap ekranında bir ürün satışı yapabilir ve satışı yapılan ürün ana sayfada ilgili indirim oranına göre listelenmiş ürünlerin arasında gösterilerek erişilebilir hale gelir. Yapılan tüm işlemler gerçek zamanlı olarak veri tabanında "kullanıcılar", "ürünler", "satışa konan ürünler", "sepet", "siparişi tamamlanan ürünler" olarak ayrı ayrı collection ve document'ler halinde kaydedilir.
 
-#### Chat GPT
+#### <a href="https://github.com/omermustekiin/Flutter/tree/master/ileri_seviye/chat_gpt">  Chat GPT </a>
 
 Provider paketi ile state management'ı sağlanmış, Firebase ve Firestore ile geliştirilmiş, http paketi ile OpenAI API üzerinden verilerin çekilerek kullanıldığı gerçek zamanlı çalışan bir chat gpt klonudur.
 
