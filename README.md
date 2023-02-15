@@ -88,17 +88,15 @@ Kullanıcıların yeni kitap ekleyebildiği, eklenilen kitap listeleri üzerinde
 
 Firebase ve Firestore ile geliştirdiğim Web, IOS ve Android platformlarında responsive olarak çalışabilen bir Instagram klonudur. Authentication, profil oluşturma, gönderi ekleme, kullanıcıları takip etme ve gönderi beğenme gibi Instagramın içerdiği çeşitli sosyal medya etkileşimlerini tamamı ile kapsar. 
 
-####<a href="https://github.com/omermustekiin/Flutter/tree/master/ileri_seviye/amazon_clone"> Amazon E-Commerce App </a>
+#### <a href="https://github.com/omermustekiin/Flutter/tree/master/ileri_seviye/amazon_clone"> Amazon E-Commerce App </a>
 
 Firebase ve Firestore ile geliştirdiğim, Web, IOS ve Android platformlarında responsive olarak çalışabilen, 10+ farklı ekran arayüzüne ve ihtiyaca yönelik kendim oluşturduğum 20+ farklı özel widget'a sahip, Provider ile state management sağlanmış, Authentication ve Cloud Firestore veritabanı ile ilgili servis metotları içeren, dinamik ve gerçek zamanlı bir Amazon E-ticaret uygulaması.
 
 Kullanıcılar kayıt olduktan sonra hesaplarına giriş yapıp, reklam içerikleri bulunan ana sayfadan çeşitli indirim kategorilerinde bulunan ürünleri inceleyip satın alabilir veya sepetine ekleyebilir. Arama çubuğu ile ürün araması yapılabilir. Kullanıcılar satış yap ekranında bir ürün satışı yapabilir ve satışı yapılan ürün ana sayfada ilgili indirim oranına göre listelenmiş ürünlerin arasında gösterilerek erişilebilir hale gelir. Yapılan tüm işlemler gerçek zamanlı olarak veri tabanında "kullanıcılar", "ürünler", "satışa konan ürünler", "sepet", "siparişi tamamlanan ürünler" olarak ayrı ayrı collection ve document'ler halinde kaydedilir.
 
-
-
 #### Chat GPT
 
-Yapım aşamasında. %30...
+Provider paketi ile state management'ı sağlanmış, Firebase ve Firestore ile geliştirilmiş, http paketi ile OpenAI API üzerinden verilerin çekilerek kullanıldığı gerçek zamanlı çalışan bir chat gpt klonudur.
 
 #### Whatsapp Clone
 
