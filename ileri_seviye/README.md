@@ -28,3 +28,5 @@ Kullanıcılar kayıt olduktan sonra hesaplarına giriş yapıp, reklam içerikl
 
 #### *Chat GPT*
 
+Provider paketi ile state management'ı sağlanmış, Firebase ve Firestore ile geliştirilmiş, http paketi ile OpenAI API üzerinden verilerin çekilerek kullanıldığı gerçek zamanlı çalışan bir chat gpt klonudur.
+
