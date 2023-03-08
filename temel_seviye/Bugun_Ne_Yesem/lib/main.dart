@@ -16,7 +16,7 @@ class BenimUygulamam extends StatelessWidget {
         appBar: AppBar(
           backgroundColor: Colors.white,
           centerTitle: true,
-          title: Text(
+          title: const Text(
             'BUGÜN NE YESEM?',
             style: TextStyle(color: Colors.black),
           ),
