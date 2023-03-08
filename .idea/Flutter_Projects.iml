@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/temel_seviye/Bugun_Ne_Yesem/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/temel_seviye/Bugun_Ne_Yesem/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/temel_seviye/Bugun_Ne_Yesem/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ileri_seviye/web_socket_binance_api/websocket_binance_api/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ileri_seviye/web_socket_binance_api/websocket_binance_api/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ileri_seviye/web_socket_binance_api/websocket_binance_api/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ileri_seviye/amazon_clone/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ileri_seviye/amazon_clone/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ileri_seviye/amazon_clone/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ileri_seviye/task_maven/linux/flutter/ephemeral/.plugin_symlinks/path_provider_linux/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ileri_seviye/task_maven/linux/flutter/ephemeral/.plugin_symlinks/path_provider_linux/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ileri_seviye/task_maven/linux/flutter/ephemeral/.plugin_symlinks/path_provider_linux/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/orta_seviye/weather_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/orta_seviye/weather_app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/orta_seviye/weather_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ileri_seviye/task_maven/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ileri_seviye/task_maven/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ileri_seviye/task_maven/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ileri_seviye/instagram_clone/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ileri_seviye/instagram_clone/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ileri_seviye/instagram_clone/build" />
+      <excludeFolder url="file://$MODULE_DIR$/orta_seviye/calculator_App/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/orta_seviye/calculator_App/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/orta_seviye/calculator_App/build" />
+      <excludeFolder url="file://$MODULE_DIR$/temel_seviye/Fal_Getir/build" />
+      <excludeFolder url="file://$MODULE_DIR$/temel_seviye/Fal_Getir/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/temel_seviye/Fal_Getir/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ileri_seviye/get_it_done/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ileri_seviye/get_it_done/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ileri_seviye/get_it_done/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ileri_seviye/task_maven/linux/flutter/ephemeral/.plugin_symlinks/path_provider_linux/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ileri_seviye/task_maven/linux/flutter/ephemeral/.plugin_symlinks/path_provider_linux/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ileri_seviye/task_maven/linux/flutter/ephemeral/.plugin_symlinks/path_provider_linux/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/temel_seviye/Drum_Machine/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/temel_seviye/Drum_Machine/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/temel_seviye/Drum_Machine/build" />
+      <excludeFolder url="file://$MODULE_DIR$/orta_seviye/Beklenen_Yasam_Suresi/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/orta_seviye/Beklenen_Yasam_Suresi/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/orta_seviye/Beklenen_Yasam_Suresi/build" />
+      <excludeFolder url="file://$MODULE_DIR$/orta_seviye/Bilgi_Testi/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/orta_seviye/Bilgi_Testi/build" />
+      <excludeFolder url="file://$MODULE_DIR$/orta_seviye/Bilgi_Testi/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ileri_seviye/Trip_and_Travel/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ileri_seviye/Trip_and_Travel/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ileri_seviye/Trip_and_Travel/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ileri_seviye/chat_gpt/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ileri_seviye/chat_gpt/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ileri_seviye/chat_gpt/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ileri_seviye/library_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ileri_seviye/library_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ileri_seviye/library_app/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/temel_seviye/flutter_kahvecisi/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/temel_seviye/flutter_kahvecisi/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/temel_seviye/flutter_kahvecisi/build" />
+      <excludeFolder url="file://$MODULE_DIR$/orta_seviye/movieApp/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/orta_seviye/movieApp/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/orta_seviye/movieApp/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
