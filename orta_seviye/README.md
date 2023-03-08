@@ -20,3 +20,7 @@ Kullanışlı ve modern arayüzü ile çeşitli hesaplamalar yapılablen bir hes
 OOP temelleri doğrultusunda ve code refactoring esas alınarak hazırlanmış bir bilgi testi yarışması. 
 
 
+#### *Web Socket Binance API*
+
+Web Socket protokülünü kullanmak için oluşturduğum, API'den gelen btc ve bnb fiyat datalarını çekip bir widget içerisinde gösterdiğim basit bir web socket demosu.
+
