@@ -76,7 +76,7 @@ const List<String> adItemNames = [
 
 List<String> keysOfRating = ["Çok kötü", "Kötü", "Orta", "İyi", "Çok iyi"];
 
-List<Widget> testChildren = [
+List<Widget> testChildrens = [
   ProductWidget(
     productModel: ProductModel(
         url: "https://resim.epey.com/406736/m_nike-renew-run-2.png",
